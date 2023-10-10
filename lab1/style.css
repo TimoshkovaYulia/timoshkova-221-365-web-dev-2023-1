@@ -1,0 +1,148 @@
+/* body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Inter', sans-serif;
+} */
+.header {
+  margin: 0;
+  background-image: url(header.jpg);
+  background-size: cover;
+}
+
+/* .toshaimg{
+  text-align: center;
+} */
+
+.vitimg{
+  width: 500px;
+  height: 400px;
+}
+
+.tosha{
+  margin:auto;
+  width: 100%;
+  text-align: center;
+}
+
+
+.welcome{
+  padding: 20px 0px 0px 0px;
+  text-align: center;
+  color:antiquewhite;
+}
+.container {
+  max-width: 75%;
+  margin: 0 auto;
+}
+.nav {
+  text-align: center;
+  font-size: 24px;
+  height: 50px;
+  padding: 10px;
+
+}
+
+.about_tosha{
+  text-align: center;
+}
+
+.table{
+  width: 100%;
+}
+.row_table{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: rgb(160, 58, 58);
+}
+.nazvanie{
+  width: 50%;
+  text-align: center;
+  padding:10px;
+  border: 1px solid rgb(115, 54, 54);
+  border-radius: 0;
+  font-weight: 500;
+}
+.main_row{
+  background-color: rgb(106, 26, 26);
+  border-radius: 0;
+  font-weight: bolder;
+}
+
+
+
+
+.podpis{
+  text-align: center;
+}
+.osnova{
+  background-color: rgb(43, 10, 10);
+color:rgb(235, 148, 148);
+}
+.nav a {
+  text-decoration: none;
+  color:antiquewhite;
+}
+.block-image {
+  background-image: url();
+
+}
+
+
+.text-center {
+  text-align: center;
+  font-size: 25px;
+}
+.mx-5 {
+  margin: 0 200px;
+  color:antiquewhite;
+}
+.mx-1 {
+  margin: 0px 40;
+}
+.footer {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-image: url(header.jpg);
+}
+
+/* .footer {
+  background-color: rgb(31, 7, 7);
+
+   text-align: center; 
+   width: 100%;   
+   font-size: 19px;
+  font-weight: bold;  
+ } */
+
+.text-just {
+  font-size: 20px;
+  text-align: center;
+  color: antiquewhite;
+}
+
+.mail {
+
+  text-decoration: none;
+  color:antiquewhite;
+
+  border-radius: 5px;
+}
+.mail:hover {
+  color: antiquewhite;
+  border: 2px dashed antiquewhite;
+}
+.btn {
+  text-decoration: none;
+  border: 2px solid black;
+  padding: 5px 10px;
+  border-radius: 5px;
+  color: black;
+}
+.btn:hover {
+    background-color: rgb(196, 28, 28);
+    color: white;
+    border-color: red;
+}
+
+
